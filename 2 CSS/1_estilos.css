@@ -1,0 +1,17 @@
+h2{
+    color: crimson;
+    font-size: 50px;
+}
+#unic{
+    color: chartreuse;
+    font-size: 45px;
+
+}
+.rojo{
+
+    color: tomato;
+}
+.fondo{
+
+    background-color: rgb(0, 0, 0);
+}

@@ -1,0 +1,14 @@
+/* margenes */
+h1{
+    background: #0440a1;
+    /*margin-left: 100px;
+    margin-right: 870px;*/
+    /*margin: 500px;*/
+    margin: 100px 480px;
+}
+/* padding */
+p{
+    background: #1d7c25;
+    padding: 50px;
+}
+
