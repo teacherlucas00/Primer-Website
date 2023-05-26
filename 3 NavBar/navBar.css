@@ -1,0 +1,46 @@
+.nav-enlace {
+    display: inline-block;
+    background: red;
+    color: black;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.nav-enlace:hover {
+    background: rgb(216, 102, 82);
+}
+
+nav {
+    background: blue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.nav-boton {
+    background: red;
+    color: black;
+    padding: 10px 0;
+    border: 5px solid #fff;
+    display: none;
+}
+
+@media (max-width: 480px) {
+    nav {
+        background: black;
+        flex-direction: column;
+    }
+
+    .nav-enlace {
+        margin: 10px 0px;
+    }
+
+    .nav-boton {
+        display: inline-block;
+    }
+
+    .desaparece {
+        display: none;
+    }
+}
