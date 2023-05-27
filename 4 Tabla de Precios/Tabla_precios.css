@@ -29,10 +29,12 @@ p{
     background: rgb(219, 133, 3);
     color: rgb(46, 33, 33);
     border: 5px solid rgb(46, 33, 33);
-    margin: 10px;
+    margin: 0 auto;
     padding: 10px;
     border-radius: 25px;
     box-shadow: 15px 15px 15px rgb(151, 121, 77) ;
+    width: 23%;
+    box-sizing: border-box;
     
 }
 
