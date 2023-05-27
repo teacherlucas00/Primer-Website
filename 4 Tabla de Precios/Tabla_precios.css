@@ -1,6 +1,9 @@
 body{
     font-family: 'Ubuntu', sans-serif;
+    background-color: black;
 }
+
+
 
 h2{
     font-weight: 400;
@@ -27,6 +30,8 @@ p{
     background: rgb(219, 133, 3);
     color: rgb(46, 33, 33);
     border: 5px solid rgb(46, 33, 33);
+    margin: 10px;
+    padding: 10px;
     
 }
 
