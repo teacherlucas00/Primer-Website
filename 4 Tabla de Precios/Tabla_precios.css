@@ -23,6 +23,11 @@ p{
     text-align: center;
 }
 
+.columna{
+    background: rgb(219, 133, 3);
+    color: rgb(46, 33, 33)
+}
+
 .precio{
     font-size: 50px;
     color: aqua;
