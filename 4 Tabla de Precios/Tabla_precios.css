@@ -56,3 +56,17 @@ p{
 .btn-precio:hover{
     background: rgb(151, 143, 143);
 }
+
+@media(max-width: 1080px) {
+    .columna{
+        width: 47%;
+        margin-bottom: 20px;
+    }
+}
+
+@media(max-width: 600px) {
+    .columna {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+}
