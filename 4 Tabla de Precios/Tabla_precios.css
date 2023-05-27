@@ -39,3 +39,17 @@ p{
     font-size: 50px;
     color: aqua;
 }
+
+.btn-precio{
+    background: white;
+    display: block;
+    color: brown;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.btn-precio:hover{
+    background: rgb(151, 143, 143);
+}
