@@ -17,3 +17,7 @@ p{
 .flex{
     display: flex;
 }
+
+.center-text{
+    text-align: center;
+}
