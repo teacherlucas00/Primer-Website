@@ -18,6 +18,7 @@ p{
 
 .flex{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .center-text{
